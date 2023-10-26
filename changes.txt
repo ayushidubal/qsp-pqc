@@ -1,0 +1,6 @@
+- Encoding formats
+- Past work
+- Better plots
+- Block diagram for QSP
+	- Workflow diagram
+- Results table
